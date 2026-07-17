@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+.box{
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.merah{
+    background-color: red;
+    color: white;
+}
+
+.biru{
+    background-color: royalblue;
+    color: yellow;
+}
+
+.hijau{
+    background-color: lightgreen;
+    color: black;
+}
